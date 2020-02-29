@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Curs_5_C_Mentee</RootNamespace>
+    <StartupObject>Curs_5_C_Mentee.Exercitiu2</StartupObject>
+  </PropertyGroup>
+
+</Project>
